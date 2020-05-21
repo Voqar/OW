@@ -47,7 +47,7 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="OWGuide\temp.html" />
+    <Content Include="OWGuide\index.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
